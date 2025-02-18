@@ -149,7 +149,7 @@ body {
   font-weight: 100;
   font-style: normal;
   color: rgba(255, 94, 239, 0.483);
-  text-decoration: normal;
+  text-decoration: underline;
   text-transform: lowercase;
   font-family: 'Roboto', serif;
   background-color: rgb(255, 217, 0);
@@ -172,8 +172,8 @@ body {
 
 .frontendFLetter {
   font-size: medium;
-  font-weight: 50px;
-  font-style: roman;
+  font-weight: 50;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
@@ -221,8 +221,8 @@ body {
 
 .frontendTLetter {
   font-size: medium;
-  font-weight: 50px;
-  font-style: roman;
+  font-weight: 50;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
@@ -304,7 +304,7 @@ body {
 .developerETwoLetter {
   font-size: 100px;
   font-weight: 300;
-  font-style: small-caps;
+  font-style: normal;
   color: darkorange;
   text-decoration: solid;
   text-transform: lowercase;
@@ -327,7 +327,7 @@ body {
   font-weight: bold;
   color: aqua;
   text-decoration: none;
-  text-transform: regular;
+  text-transform: lowercase;
   font-family: 'Shafarik', sans-serif;
   background-color: darkslategray;
   border: 6px solid aqua;
@@ -355,15 +355,15 @@ body {
   border: 6px solid forestgreen;
 }
 .developerRLetter {
-  font-size: 90px;
+  font-size: 25px;
   font-weight: 100;
-  font-style: oblique;
-  color: greenyellow
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Rubik Glitch', sans-serif;
-  background-color: darkgreen;
-  border: 6px solid greenyellow;
+  font-style: normal;
+  color: darkred;
+  text-decoration: wavy;
+  text-transform: lowercase;
+  font-family: 'ceviche one', sans-serif;
+  background-color: orangered;
+  border: 6px solid darkred;
 }
 
 /* TAKE word */
@@ -417,8 +417,8 @@ body {
 
 .upULetter {
   font-size: 25px;
-  font-weight: 50px;
-  font-style: roman;
+  font-weight: 50;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
@@ -429,7 +429,7 @@ body {
 .upPLetter {
   font-size: 69px;
   font-weight: 500;
-  font-style: oblique;
+  font-style: normal;
   color: darkorange;
   text-decoration: solid;
   text-transform: uppercase;
@@ -478,21 +478,21 @@ body {
   font-weight: bold;
   color: aqua;
   text-decoration: none;
-  text-transform: regular;
+  text-transform: uppercase;
   font-family: 'Shafarik', sans-serif;
   background-color: darkslategray;
   border: 6px solid aqua;
 }
 .gardeningELetter {
-  font-size: 90px;
+  font-size: 25px;
   font-weight: 100;
-  font-style: oblique;
-  color: greenyellow
-  text-decoration: underline;
-  text-transform: uppercase;
-  font-family: 'Rubik Glitch', sans-serif;
-  background-color: darkgreen;
-  border: 6px solid greenyellow;
+  font-style: normal;
+  color: darkred;
+  text-decoration: wavy;
+  text-transform: lowercase;
+  font-family: 'ceviche one', sans-serif;
+  background-color: orangered;
+  border: 6px solid darkred;
 }
 .gardeningNLetter {
   font-size: 40px;
@@ -507,8 +507,8 @@ body {
 }
 .gardeningILetter {
   font-size: 40px;
-  font-weight: 50px;
-  font-style: roman;
+  font-weight: 50;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
@@ -517,7 +517,7 @@ body {
   border: 6px solid rgb(255, 0, 0);
 }
 .gardeningNTwoLetter {
-  font-style: 30px;
+  font-size: 30px;
   color: forestgreen;
   text-decoration: underline;
   text-transform: uppercase;
@@ -554,7 +554,7 @@ body {
   font-weight: bold;
   color: aqua;
   text-decoration: none;
-  text-transform: regular;
+  text-transform: none;
   font-family: 'Shafarik', sans-serif;
   background-color: darkslategray;
   border: 6px solid aqua;
@@ -562,7 +562,7 @@ body {
 .becauseCLetter {
   font-size: 50px;
   font-weight: 50;
-  font-style: roman;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
@@ -582,7 +582,7 @@ body {
   border: 6px solid salmon;
 }
 .becauseULetter {font-size: 60px;
-  font-weight: 60px;
+  font-weight: 60;
   color: coral;
   text-decoration: none;
   text-transform: uppercase;
@@ -628,7 +628,8 @@ body {
   border: 6px dotted forestgreen;
 }
 .theyHLetter {
-  font-style: n20px;
+  font-size: 100px;
+  font-style: normal;
   color: forestgreen;
   text-decoration: underline;
   text-transform: uppercase;
@@ -677,15 +678,15 @@ body {
   font-weight: bold;
   color: aqua;
   text-decoration: none;
-  text-transform: regular;
+  text-transform: uppercase;
   font-family: 'Shafarik', sans-serif;
   background-color: darkslategray;
   border: 6px solid aqua;
 }
 .wantedNLetter {
   font-size: 40px;
-  font-weight: 50px;
-  font-style: roman;
+  font-weight: 50;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
@@ -741,7 +742,7 @@ body {
   border: 20px dotted lightgray;
 }
 .toOLetter {
-  font-weight: 75px;
+  font-weight: 75;
   color: coral;
   text-decoration: none;
   text-transform: uppercase;
@@ -761,12 +762,12 @@ body {
   text-transform: lowercase;
   font-family: 'Rubik Iso', sans-serif;
   background-color: olive;
-  border: 6px solid eggplant;
+  border: 6px solid lime;
 }
 .improveMLetter {
   font-size: 80px;
-  font-weight: 50px;
-  font-style: roman;
+  font-weight: 50;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
@@ -786,7 +787,7 @@ body {
   border: 6px solid salmon;
 }
 .improveRLetter {
-  font-weight: 10px;
+  font-weight: 10;
   color: coral;
   text-decoration: none;
   text-transform: uppercase;
@@ -846,7 +847,7 @@ body {
   font-weight: bold;
   color: aqua;
   text-decoration: none;
-  text-transform: regular;
+  text-transform: lowercase;
   font-family: 'Shafarik', sans-serif;
   background-color: darkslategray;
   border: 6px solid aqua;
@@ -878,7 +879,7 @@ body {
   font-weight: bold;
   color: aqua;
   text-decoration: none;
-  text-transform: regular;
+  text-transform: lowercase;
   font-family: 'Shafarik', sans-serif;
   background-color: darkslategray;
   border: 6px solid aqua;
@@ -913,15 +914,15 @@ body {
   font-weight: bold;
   color: aqua;
   text-decoration: none;
-  text-transform: regular;
+  text-transform: uppercase;
   font-family: 'Shafarik', sans-serif;
   background-color: darkslategray;
   border: 6px solid aqua;
 }
 .rootTLetter {
   font-size: 40px;
-  font-weight: 50px;
-  font-style: roman;
+  font-weight: 75;
+  font-style: normal;
   color: rgb(255, 0, 0);
   text-decoration: underline;
   text-transform: uppercase;
